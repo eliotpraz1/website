@@ -1,0 +1,14 @@
+
+myVenv/*
+django_backend/django_backend/__pycache__/wsgi.cpython-312.pyc
+django_backend/django_backend/__pycache__/urls.cpython-312.pyc
+django_backend/django_backend/__pycache__/settings.cpython-312.pyc
+django_backend/django_backend/__pycache__/__init__.cpython-312.pyc
+django_backend/db.sqlite3
+flutter_frontend/linux/flutter/generated_plugins.cmake
+flutter_frontend/linux/flutter/generated_plugin_registrant.h
+flutter_frontend/linux/flutter/generated_plugin_registrant.cc
+flutter_frontend/windows/flutter/generated_plugins.cmake
+flutter_frontend/windows/flutter/generated_plugin_registrant.h
+flutter_frontend/windows/flutter/generated_plugin_registrant.cc
+flutter_frontend/macos/Flutter/GeneratedPluginRegistrant.swift
