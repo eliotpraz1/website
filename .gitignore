@@ -12,3 +12,5 @@ flutter_frontend/windows/flutter/generated_plugins.cmake
 flutter_frontend/windows/flutter/generated_plugin_registrant.h
 flutter_frontend/windows/flutter/generated_plugin_registrant.cc
 flutter_frontend/macos/Flutter/GeneratedPluginRegistrant.swift
+*.lock
+flutter_frontend/pubspec.lock

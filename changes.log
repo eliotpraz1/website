@@ -1,0 +1,10 @@
+03.11.2023 - v1.0
++ Create the Git
++ Create changes.log
++ Initialisation from the Django Backend
++ Initialisation from Flutter Database
++ Update .gitignore
++ Page schema : Header (F) > Navbar (F) > Body (D) > Footer (F)
++ Add Navigation bar on flutter
++ Add home_content.dart, aboutme.dart, blog.dart
+* F = fix, D = Dynamic
