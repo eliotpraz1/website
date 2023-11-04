@@ -8,3 +8,11 @@
 + Add Navigation bar on flutter
 + Add home_content.dart, aboutme.dart, blog.dart
 * F = fix, D = Dynamic
+
+04.11.2023 - v1.0.1
++ Create Rest API
++ Create First model "About Me"
++ Create ViewSet
++ Create Router URL
++ Create Serializer
++ Add requirements.txt

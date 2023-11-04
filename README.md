@@ -18,6 +18,10 @@ Version 1 - 03.11.2023
 ## Project Setup
 - Download the Git
 - Open the project into VScode / Android Studio
+- Install requirements.txt 
+```sh
+pip install -r requirements.txt
+```
 
 ### Run Front-end
 - Run Command
