@@ -18,4 +18,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),    
     # http://localhost:8000/api/<router-viewsets>
     path('api/', include(router.urls)),
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]

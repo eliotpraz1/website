@@ -10,7 +10,6 @@
 * F = fix, D = Dynamic
 
 04.11.2023 - v1.0.1
-+ Create Rest API
 + Create First model "About Me"
 + Create ViewSet
 + Create Router URL
@@ -22,3 +21,8 @@
 + Create ViewSet
 + Create Router URL
 + Create Serializer
+
+10.11.2023 v1.0.3
++ Add Rest API params with Token
++ Add Empty models in flutter 
++ Add Django and authentication Service in flutter
